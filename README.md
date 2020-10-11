@@ -4,7 +4,7 @@ Fall 2020 206a Workspace: Sami Bhusal
 **About Myself**
   1. Sami 
   2. Kathmandu, Nepal-Hyderabad, India-Los Angeles, California
-  3. Key research interests: Critical development studies, mega infrastructures, gender-sensitive transportation, transportation equity
+  3. Key research interests: Critical development studies, mega infrastructures, gender-sensitive transportation, neighborhood changes, transportation equity, and more!
  
 **Learning goals for self for the class**
   1. I hope to learn how to acquire, clean, and visualize data from various sources
